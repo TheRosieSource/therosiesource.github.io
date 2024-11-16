@@ -1,2 +1,4 @@
+### Main page
 - [Read Me](README)
-- [Example Second Page](second-page)
+### New blog
+- [This is the side you're looking for...](rosie-advocate)
